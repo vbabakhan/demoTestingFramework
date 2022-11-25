@@ -1,0 +1,5 @@
+Running method level setUp
+Result1: True
+Result2: True
+Running method level tearDown
+Running one time tearDown

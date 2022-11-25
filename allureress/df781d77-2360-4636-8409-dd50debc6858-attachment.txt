@@ -1,0 +1,20 @@
+[32mINFO    [0m NavigationPage:selenium_driver.py:66 Element found with locator: //*[@id='site-elementor-header']//*[contains(@class,'auxicon-search-4 auxicon')] and  locatorType: xpath
+[32mINFO    [0m NavigationPage:selenium_driver.py:102 Cannot click on the element with locator: //*[@id='site-elementor-header']//*[contains(@class,'auxicon-search-4 auxicon')] locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:66 Element found with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-search-field')] and  locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:118 Cannot send data on the element with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-search-field')] locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:66 Element found with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-iconic-search-submit')] and  locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:102 Cannot click on the element with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-iconic-search-submit')] locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:69 Element not found with locator: //*[@id='primary']//*[text()='Add to cart'] and  locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:102 Cannot click on the element with locator: //*[@id='primary']//*[text()='Add to cart'] locatorType: xpath
+[32mINFO    [0m NavigationPage:selenium_driver.py:66 Element found with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-shopping-basket aux-phone-off aux-action-on-hover')]  and  locatorType: xpath
+[32mINFO    [0m NavigationPage:selenium_driver.py:99 Clicked on element with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-shopping-basket aux-phone-off aux-action-on-hover')]  locatorType: xpath
+[32mINFO    [0m NavigationPage:selenium_driver.py:69 Element not found with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-inline-card-checkout')]//*[contains(text(),'Checkout')]  and  locatorType: xpath
+[32mINFO    [0m NavigationPage:selenium_driver.py:102 Cannot click on the element with locator: //*[@id='site-elementor-header']//*[contains(@class,'aux-inline-card-checkout')]//*[contains(text(),'Checkout')]  locatorType: xpath
+[32mINFO    [0m Util:util.py:25 Wait :: '5' seconds for 
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:66 Element found with locator: //*[@id='place_order'] and  locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:99 Clicked on element with locator: //*[@id='place_order'] locatorType: xpath
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:216 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:224 Element appeared on the web page
+[32mINFO    [0m BuyingBlackDress:selenium_driver.py:185 Element is displayed
+[32mINFO    [0m TestingStatus:testingstatus.py:31 ### VERIFICATION SUCCESSFUL :: + Payment Failed Verification
+[32mINFO    [0m TestingStatus:testingstatus.py:65 test_invalidPayMethod ### TEST SUCCESSFUL
