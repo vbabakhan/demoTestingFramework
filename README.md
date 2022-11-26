@@ -1,4 +1,4 @@
-# Demo Web Testing Framework by Python
+# Demo Web Automation Framework
 
 This demo project is intended to demonstrate how I build a Framework using POM (Page Object Model), using the Selenium-webdriver, Pytest, and Allure tools, which allows to connect almost any web-application to it and start testing quickly.
 
