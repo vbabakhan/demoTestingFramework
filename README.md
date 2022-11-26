@@ -1,6 +1,6 @@
 # Demo Web Automation Framework
 
-This demo project is intended to demonstrate how I build a Framework using POM (Page Object Model), using the Selenium-webdriver, Pytest, and Allure tools, which allows to connect almost any web-application to it and start testing quickly.
+This demo project, built by me, is intended to demonstrate how a Framework using POM (Page Object Model), which, using the Selenium, Pytest, and Allure tools, allows you to connect almost any website to it and start testing quickly.
 
 ### Installing
 
