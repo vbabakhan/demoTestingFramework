@@ -31,12 +31,6 @@ Use this command in the terminal from your virtual environment if you want to ge
 
 2. (Path to your project directory)../demoWebAutomationFramework/allure-2.10.0/bin/allure serve allureress
 
-#### Example screenshots:
-
-<img src="https://demo.meta-modern-up.com/allure_img/Allure001.png" width="500" target="_blank">
-<img src="https://demo.meta-modern-up.com/allure_img/Allure002.png" width="500" target="_blank">
-<img src="https://demo.meta-modern-up.com/allure_img/Allure003.png" width="500" target="_blank">
-<img src="https://demo.meta-modern-up.com/allure_img/Allure004.png" width="500" target="_blank">
 
 ### For use with other projects
 
